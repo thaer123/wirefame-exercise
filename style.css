@@ -7,6 +7,13 @@ header {
   margin-bottom: 20px;
   
 }
+ul {
+  list-style-type: none;
+  width: 50%;
+  float: right;
+  margin: auto;
+}
+
 nav {
   width: 100%;
   display: flex;
@@ -15,13 +22,6 @@ nav {
   z-index: -1;
   
 }
-ul {
-  list-style-type: none;
-  width: 50%;
-  float: right;
-  margin: auto;
-}
-
 li {
   display: inline;
   padding: 0px;
